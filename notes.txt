@@ -1,0 +1,16 @@
+
+1. cd into folder you want to create a project (in the command prompt)
+2. npx create-next-app (will create new next project. confirm with 'y' & give it a name)
+3. npm install (installs all dependencies of project in terminal in visual studio code)
+4. nmp run dev (start development server)
+
+
+format document - shift, alt, F
+
+In Next.js app, no index.html 
+next js is built in prerendering and while it gives you a single page application 
+return an initial page with content.
+Pages folder is most important.
+
+In Pages folder, you can delete api folder and currently just ignore the _app.js file.
+Delete the Home.module.css file in styles folder.

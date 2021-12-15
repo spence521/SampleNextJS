@@ -14,3 +14,10 @@ Pages folder is most important.
 
 In Pages folder, you can delete api folder and currently just ignore the _app.js file.
 Delete the Home.module.css file in styles folder.
+
+
+Git Notes:
+1. git clone "URL"
+2. git add . (adds everything)
+3. git commit -a -m "message"
+4. git push origin master

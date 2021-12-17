@@ -16,6 +16,6 @@ a {
 }
 
 div.row span{position: absolute;}
-div.row span:nth-child(1){left: 0px;}
-div.row span:nth-child(2){left: 125px;}
-div.row span:nth-child(3){left: 250px;}
+div.row span:nth-child(1){left: 25px;}
+div.row span:nth-child(2){left: 150px;}
+div.row span:nth-child(3){left: 275px;}

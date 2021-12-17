@@ -2,7 +2,10 @@
 1. cd into folder you want to create a project (in the command prompt)
 2. npx create-next-app (will create new next project. confirm with 'y' & give it a name)
 3. npm install (installs all dependencies of project in terminal in visual studio code)
-4. nmp run dev (start development server)
+4. npm i express mongoose body-parser (installs packages for mongoDB)
+5. npm install -g nodemon (installs nodeman which hosts the server)
+6. nodemon server.js 
+7. npm run dev (start development server)
 
 
 format document - shift, alt, F
